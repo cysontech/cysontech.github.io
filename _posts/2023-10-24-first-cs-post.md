@@ -3,7 +3,7 @@ title: "cs 관련 첫번째 글"
 excerpt: "들어가는 글"
 
 categories:
-  - Computer Science
+  - cs
 tags:
   - OS
   - 운영체제

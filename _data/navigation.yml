@@ -12,3 +12,25 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "프론트엔드"
+    children:
+      - title: "html"
+        url: "/html"
+        category: "html"
+      - title: "css"
+        url: "/css"
+        category: "css"
+      - title: "javascript"
+        url: "/javascript"
+        category: "javascript"
+      - title: "React"
+        url: "/react"
+        category: "react"
+
+  - title: "컴퓨터과학"
+    children:
+      - title: "computer-science"
+        url: "/cs"
+        category: "cs"

@@ -3,7 +3,7 @@ title: "mac에서 MySQL 설치하기"
 excerpt: "mac에서 MySQL 설치해보았다."
 
 categories:
-  - Computer Science
+  - cs
 tags:
   - DB
   - 데이터베이스

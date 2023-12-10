@@ -3,7 +3,7 @@ title: "리액트 라우터 개념"
 excerpt: "리액트 라우터 v6 개념 소개"
 
 categories:
-  - 웹개발
+  - react
 tags:
   - React
 ---
